@@ -1,6 +1,6 @@
 {
   "name": "mwz_name_generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use for generate random name for testing or for anything you want to...",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -14,12 +14,16 @@
     "preversion": "npm run lint",
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags"
- },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maetee/mwz_name_generator.git"
   },
-  "keywords": ["Generator","name","sample name"],
+  "keywords": [
+    "Generator",
+    "name",
+    "sample name"
+  ],
   "author": "Maetee Supreanruey",
   "license": "ISC",
   "bugs": {

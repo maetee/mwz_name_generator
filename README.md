@@ -1,2 +1,2 @@
 # mwz_name_generator
-Use for generate random name for testing
+Use for generate random name for testing or for anything you want to...
